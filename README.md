@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Mehran-Shirazi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning neural operators
+- 🔬 PhD student at The Ohio State University
+- 🚀 Working at the intersection of deep learning and computational mechanics
+- ⚙️ Experienced with Fourier Neural Operators
+- 🌱 Passionate about high-performance simulation, geometry-aware learning, and physics-informed ML
 
 <!---
 Mehran-Shirazi/Mehran-Shirazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
