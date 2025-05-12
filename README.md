@@ -1,5 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehran-shirazi/)
-[![Email](https://img.shields.io/badge/Email-mehran%40example.com-blue?style=flat&logo=maildotru&logoColor=white)](mailto:shirazi.12@osu.edu)
+[![Email](https://img.shields.io/badge/Email-shirazi.12%40osu.edu-blue?style=flat&logo=maildotru&logoColor=white)](mailto:shirazi.12@osu.edu)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Mehran-Shirazi)
 
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
