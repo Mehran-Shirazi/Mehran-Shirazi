@@ -1,4 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehran-shirazi/)
+[![Email](https://img.shields.io/badge/Email-mehran%40example.com-blue?style=flat&logo=maildotru&logoColor=white)](mailto:shirazi.12@osu.edu)
 
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
