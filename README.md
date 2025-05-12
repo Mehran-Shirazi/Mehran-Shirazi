@@ -1,3 +1,5 @@
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehran-shirazi/)
+
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
 - 🚀 Working at the intersection of deep learning and computational mechanics
