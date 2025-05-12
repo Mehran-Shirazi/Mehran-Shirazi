@@ -1,3 +1,5 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]
+
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
 - 🚀 Working at the intersection of deep learning and computational mechanics
