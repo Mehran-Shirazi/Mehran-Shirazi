@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
 - 🚀 Working at the intersection of deep learning and computational mechanics
-- ⚙️ Experienced with Fourier Neural Operators
+- ⚙️ Experienced with Neural Operators
 - 🌱 Passionate about high-performance simulation, geometry-aware learning, and physics-informed ML
 
 <!---
