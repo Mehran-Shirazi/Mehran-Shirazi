@@ -19,14 +19,13 @@
 </p>
 -->
 
+<!--
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=github_dark" alt="My Github Stats">
-
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
--->
 </p>
+-->
 
 <!---
 Mehran-Shirazi/Mehran-Shirazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
