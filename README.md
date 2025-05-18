@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
-- 🚀 Working at the intersection of deep learning and computational mechanics
+- 🧠 Developing AI-driven solvers for solid mechanics and PDEs, with a focus on neural operators and domain decomposition
 - ⚙️ Experienced with Neural Operators
 - 🌱 Passionate about high-performance simulation, geometry-aware learning, and physics-informed ML
 
@@ -13,7 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat-square&logo=LaTeX&color=353535)
 
 
-<!--
+<!-- 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehran-Shirazi&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
