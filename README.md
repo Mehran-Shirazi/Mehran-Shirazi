@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Mehran-Shirazi
 - 🔬 PhD student at The Ohio State University
-- 🧠 Developing AI-driven solvers for solid mechanics and PDEs, with a focus on neural operators and domain decomposition
+- 🧠 Developing AI-driven solvers for solid mechanics and PDEs, with a focus on deep learning and domain decomposition
 - ⚙️ Experienced with Neural Operators
 - 🌱 Passionate about high-performance simulation, geometry-aware learning, and physics-informed ML
 
