@@ -6,7 +6,7 @@
 - 🔬 PhD student at The Ohio State University
 - 🧠 Developing AI-driven solvers for solid mechanics and PDEs, with a focus on deep learning and domain decomposition
 - ⚙️ Experienced with neural operators
-- 🔧 Focused on customizing neural operator architectures for complex geometries, irregular grids, and domain-specific constraints
+- 🔧 Customizing neural operator architectures for complex geometries, irregular grids, and domain-specific constraints
 - 🌱 Passionate about high-performance simulation, geometry-aware learning, and physics-informed ML
 
 - ### 🛠 Tech Stack
