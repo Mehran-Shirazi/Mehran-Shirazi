@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mehran-Shirazi)
 
 - 👋 Hi, I’m @Mehran-Shirazi
-- 🔬 PhD student at The Ohio State University
+- 🔬 PhD candidate at The Ohio State University
 - 🧠 Developing AI-driven solvers for solid mechanics and PDEs, with a focus on deep learning and domain decomposition
 - ⚙️ Experienced with neural operators for surrogate modeling
 - 🔧 Customizing neural operator architectures for complex geometries, irregular grids, and domain-specific constraints
